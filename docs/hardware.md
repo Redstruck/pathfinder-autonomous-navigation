@@ -1,7 +1,7 @@
 # Hardware Documentation
 
 ## Overview
-The Arduino Maze Solver Robot is built around an Arduino UNO R4 WiFi microcontroller connected to distance sensors, motor controllers, and DC motors. The hardware allows the robot to detect maze walls, process sensor data, and autonomously navigate through unknown environments.
+The Pathfinder robot is built around an Arduino UNO R4 WiFi microcontroller connected to distance sensors, motor controllers, and DC motors. The hardware allows the robot to detect maze walls, process sensor data, and autonomously navigate through unknown environments.
 
 ## Hardware Components
 This diagram displays the primary electronic components driving the robot's navigation and power systems:
