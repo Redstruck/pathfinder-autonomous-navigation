@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Arduino Maze Solver Robot navigates an unknown maze by continuously reading distance measurements from three sensors and making movement decisions in real time.
+The Pathfinder robot navigates an unknown maze by continuously reading distance measurements from three sensors and making movement decisions in real time.
 
 Unlike robots that rely on preloaded maps or external control, this robot reacts only to its current surroundings. Sensor data is processed by the Arduino UNO R4 WiFi, which determines the next movement command and controls the motors accordingly.
 
