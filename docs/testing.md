@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Arduino Maze Solver Robot was developed through an iterative testing process consisting of sixteen full maze-solving trials. After each trial, observations were recorded and the robot's hardware or software was modified to improve performance.
+Pathfinder was developed through an iterative testing process consisting of sixteen full maze-solving trials. After each trial, observations were recorded and the robot's hardware or software was modified to improve performance.
 
 Testing focused on increasing reliability, reducing completion time, improving navigation accuracy, and preparing the robot for competition.
 
