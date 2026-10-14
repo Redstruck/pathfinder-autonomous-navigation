@@ -8,7 +8,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h3 align="center">Arduino Maze Solver Robot</h3>
+  <h3 align="center">Pathfinder: Autonomous Navigator</h3>
 
   <p align="center">
     An autonomous maze-solving robot built on an Arduino UNO R4 WiFi — 🥇 1st Place at the UCI ICS Intelligent Robotics Summer Academy
@@ -48,7 +48,7 @@
 
 > **Interested in how the robot makes decisions?** See the [Algorithm Documentation](docs/algorithm.md) to learn how the maze-solving logic works.
 
-The Arduino Maze Solver Robot is an autonomous robot built to navigate mazes without any human control. Using distance sensors, it detects walls and open paths, processes that information on an Arduino microcontroller, and decides where to move in real time based on a maze-solving algorithm.
+Pathfinder is an autonomous robot built to navigate mazes without any human control. Using distance sensors, it detects walls and open paths, processes that information on an Arduino microcontroller, and decides where to move in real time based on a maze-solving algorithm.
 
 Developed during the **UCI ICS Intelligent Robotics Summer Academy**, this project competed in the final maze competition and achieved **1st Place**.
 
@@ -230,7 +230,7 @@ To install a library:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Redstruck/arduino-maze-solver-robot.git
+   git clone https://github.com/Redstruck/pathfinder-autonomous-navigator.git
    ```
 2. Open the desired robot program in Arduino IDE:
    ```
@@ -280,7 +280,7 @@ Special thanks to:
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [license-shield]: https://img.shields.io/badge/License-MIT-red?style=for-the-badge
-[license-url]: https://github.com/Redstruck/arduino-maze-solver-robot/blob/main/LICENSE
+[license-url]: https://github.com/Redstruck/arduino-autonomous-navigator/blob/main/LICENSE
 
 [competition-shield]: https://img.shields.io/badge/Award-1st%20Place%20Winner-FFD700?style=for-the-badge
 [competition-url]: #competition-demonstration
