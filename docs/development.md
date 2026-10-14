@@ -1,6 +1,6 @@
 # Development
 
-This document outlines the development process of the Arduino Maze Solver Robot, from the first movement tests to the final competition-ready version. The project was built through iterative hardware improvements, software development, debugging, and extensive testing.
+This document outlines the development process of Pathfinder, from the first movement tests to the final competition-ready version. The project was built through iterative hardware improvements, software development, debugging, and extensive testing.
 
  
 
