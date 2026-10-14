@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the Arduino Maze Solver Robot project!
+Thank you for your interest in contributing to Pathfinder!
 
 ## Project Status
 
