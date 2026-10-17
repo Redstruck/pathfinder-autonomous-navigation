@@ -19,7 +19,7 @@ The overall trend demonstrates a significant reduction in completion time as mov
 | Trial | Time (min:sec) | Observations | Future Goals |
 |:---:|:---:|---|---|
 | 1 | 2:02 | The robot kept bumping into walls and frequently got stuck while turning. | Improve the wall detection rate and make the robot turn a wider angle when stuck to get out faster. |
-| 2 | 1:25 | It's movement was quite slow. | Increase the robot's overall movement speed to solve the maze faster. |
+| 2 | 1:25 | Its movement was quite slow. | Increase the robot's overall movement speed to solve the maze faster. |
 | 3 | 1:24 | It was able to navigate the maze reliably, but at a slow speed. | Increase the robot's speed even more in order to solve the maze faster. Adjust turning values and wall detection thresholds accordingly. |
 | 4 | 1:28 | Although the robot got stuck a few times, it was able to get itself out. | Increase the speed to improve the robot's efficiency. Work on a stuck detection system that allows the robot to break away from walls and realign itself within the maze.|
 | 5 | 1:45 | The robot got confused at one left turn and went all the way to the beginning but ended up completing the harder maze. The robot's turns were below 90 degrees. | Increase the speed and fine-tune the turning behavior. |
@@ -62,7 +62,7 @@ The final version of the robot was entered into the UCI ICS Intelligent Robotics
 | Placement | 🥇 1st Place |
 | Teams | 8 |
 | Maze Size | 6 × 3 Grid |
-| Cell Dimensions | 14 × 14 inches |
+| Grid Dimensions | 14 × 14 inches |
 | Final Competition Time | ~46 seconds |
 
 ## Key Findings
