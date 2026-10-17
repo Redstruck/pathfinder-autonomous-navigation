@@ -194,5 +194,5 @@ Potential improvements include:
 - Dynamic motor acceleration and deceleration based on frontDist
 - Emergency wall-stop function
 - Improved turning accuracy
-- Mapping the maze through a matrix and store paths it has visited and not visited yet.
+- Mapping the maze through a matrix and storing paths it has visited and not visited yet.
 - Machine-learning-based navigation utilizing Artificial intelligence
