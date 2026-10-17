@@ -215,7 +215,7 @@ During testing, the robot would occasionally become stuck after an unsuccessful 
 
 ### Solution
 
-I wrote a stuck detection system using `checkIfStuck()`, which continuously compared the current sensor readings with the previous values stored in `lastFrontDist`, `lastRightDist`, and `lastLeftDist`. If all three sensor readings remained within `STUCK_TOLERANCE`(15 mm) for longer than `STUCK_TIMEOUT` (900 ms), the function determined that the robot was no longer making progress and triggered `handleStuck()`. This function caused the robot to reverse before choosing the side with more available space based on the distance sensor readings, allowing it to free itself and continue navigating the maze without human intervention.
+I wrote a stuck detection system using `checkIfStuck()`, which continuously compared the current sensor readings with the previous values stored in `lastFrontDist`, `lastRightDist`, and `lastLeftDist`. If all three sensor readings remained within `STUCK_TOLERANCE` (15 mm) for longer than `STUCK_TIMEOUT` (900 ms), the function determined that the robot was no longer making progress and triggered `handleStuck()`. This function caused the robot to reverse before choosing the side with more available space based on the distance sensor readings, allowing it to free itself and continue navigating the maze without human intervention.
  
 
 ## Arduino Board Crashing
