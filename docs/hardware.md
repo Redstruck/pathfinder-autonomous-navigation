@@ -42,8 +42,8 @@ The robot uses multiple distance sensors positioned around the chassis to detect
 
 ### Sensor Placement
 * **Front Sensor:** Measures distance directly ahead to prevent head-on collisions and trigger turning routines.
-* **Left Sensor:** Monitors the left wall to guide left-wall-following algorithms or verify open paths.
-* **Right Sensor:** Monitors the right wall to guide right-wall-following algorithms or verify open paths.
+* **Left Sensor:** Monitors the left wall to assist right-wall-following algorithm or verify open paths.
+* **Right Sensor:** Monitors the right wall to guide right-wall-following algorithm or verify open paths.
 
 These readings are continuously processed by the Arduino to determine the robot's next movement.
 
