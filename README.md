@@ -307,7 +307,7 @@ Special thanks to:
 [Modulino-url]: https://github.com/arduino-libraries/Modulino
 
 [DRV8835-badge]: https://img.shields.io/badge/DRV8835MotorShield-6A0DAD?style=for-the-badge
-[DRV8835-url]: https://github.com/pololu/drv8835-motor-shield-arduino
+[DRV8835-url]: https://github.com/pololu/drv8835-motor-shield
 
 [WDT-badge]: https://img.shields.io/badge/WDT-2E8B57?style=for-the-badge
 [WDT-url]: https://github.com/arduino/ArduinoCore-renesas
