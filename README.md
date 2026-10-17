@@ -293,7 +293,6 @@ Special thanks to:
 [program-url]: https://summeracademy.ics.uci.edu/intelligent-robotics-course-description/
 
 [product-screenshot]: media/images/robot-hero.png
-[demo-thumbnail]: media/images/demo-thumbnail.png
 
 [Arduino-badge]: https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
 [Arduino-url]: https://www.arduino.cc/
@@ -311,7 +310,7 @@ Special thanks to:
 [DRV8835-url]: https://github.com/pololu/drv8835-motor-shield-arduino
 
 [WDT-badge]: https://img.shields.io/badge/WDT-2E8B57?style=for-the-badge
-[WDT-url]: https://www.nongnu.org/avr-libc/user-manual/group__avr__watchdog.html
+[WDT-url]: https://github.com/arduino/ArduinoCore-renesas
 
 [Wire-badge]: https://img.shields.io/badge/Wire-CC6600?style=for-the-badge
 [Wire-url]: https://docs.arduino.cc/language-reference/en/functions/communication/wire/
