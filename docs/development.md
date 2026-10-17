@@ -205,7 +205,7 @@ Early versions of the robot used inaccurate sensor distance thresholds, causing 
 
 ### Solution
 
-I made Distance thresholds into constant variables (`MaxFrontDist` and `MaxSideDist`) so they could be easily adjusted during testing without modifying the robot's navigation logic. The `updateWallStates()` function then compared the live sensor readings against these thresholds to determine whether a wall was present in front, to the left, or to the right. By repeatedly testing and fine-tuning these threshold values on the physical robot, the wall detection became much more reliable, preventing early turns and ensuring the robot only changed direction when it reached a valid maze opening. 
+I made the distance thresholds into constant variables (`MaxFrontDist` and `MaxSideDist`) so they could be easily adjusted during testing without modifying the robot's navigation logic. The `updateWallStates()` function then compared the live sensor readings against these thresholds to determine whether a wall was present in front, to the left, or to the right. By repeatedly testing and fine-tuning these threshold values on the physical robot, the wall detection became much more reliable, preventing early turns and ensuring the robot only changed direction when it reached a valid maze opening. 
 
 ## Robot Becoming Stuck
 
