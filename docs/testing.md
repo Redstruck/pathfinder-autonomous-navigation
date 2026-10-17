@@ -63,7 +63,7 @@ The final version of the robot was entered into the UCI ICS Intelligent Robotics
 | Teams | 8 |
 | Maze Size | 6 × 3 Grid |
 | Cell Dimensions | 14 × 14 inches |
-| Final Competition Time | ~45 seconds |
+| Final Competition Time | ~46 seconds |
 
 ## Key Findings
 
