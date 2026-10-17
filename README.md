@@ -264,7 +264,7 @@ The repository includes two versions:
   * Focused on increasing speed
   * Uses adjusted movement parameters for faster completion times
 
-_For hardware wiring notes and further documentation, see the `docs/hardware.md` folder._
+_For hardware wiring notes and further documentation, see the `docs/hardware.md` file._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
