@@ -26,6 +26,7 @@
       </ul>
     </li>
     <li><a href="#competition-results">Competition Results</a></li>
+    <li><a href="#competition-demonstration">Competition Demonstration</a></li>
     <li><a href="#my-role">My Role</a></li>
     <li><a href="#how-it-works">How It Works</a></li>
     <li><a href="#repository-structure">Repository Structure</a></li>
@@ -230,7 +231,7 @@ To install a library:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Redstruck/pathfinder-autonomous-navigator.git
+   git clone https://github.com/Redstruck/pathfinder-autonomous-navigation.git
    ```
 2. Open the desired robot program in Arduino IDE:
    ```
@@ -263,7 +264,7 @@ The repository includes two versions:
   * Focused on increasing speed
   * Uses adjusted movement parameters for faster completion times
 
-_For hardware wiring notes and further documentation, see the `hardware/` folder._
+_For hardware wiring notes and further documentation, see the `docs/hardware.md` folder._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -280,7 +281,7 @@ Special thanks to:
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [license-shield]: https://img.shields.io/badge/License-MIT-red?style=for-the-badge
-[license-url]: https://github.com/Redstruck/arduino-autonomous-navigator/blob/main/LICENSE
+[license-url]: https://github.com/Redstruck/pathfinder-autonomous-navigation/blob/main/LICENSE
 
 [competition-shield]: https://img.shields.io/badge/Award-1st%20Place%20Winner-FFD700?style=for-the-badge
 [competition-url]: #competition-demonstration
